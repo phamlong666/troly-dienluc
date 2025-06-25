@@ -1,4 +1,15 @@
 streamlit
 pandas
+Pillow
 matplotlib
+python-docx
+python-pptx
+fpdf
+supabase
+python-dotenv
+folium
+streamlit-folium
 openpyxl
+numpy
+yagmail
+plotly
